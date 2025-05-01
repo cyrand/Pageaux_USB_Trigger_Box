@@ -1,1 +1,1 @@
-To send TTL triggers via USB, connect USB-C cable from Arduino to host computer. On host computer, select the matching USB device and set communication speed at 115200 bauds. Write `L` to serial port to set output to low and `H` to set output to high.
+To send TTL triggers via USB, connect USB-C cable from Arduino to host computer. On host computer, select the matching USB device and set communication speed at 1000000 bauds. Write `L` to serial port to set output to low and `H` to set output to high.

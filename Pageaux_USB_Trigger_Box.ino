@@ -14,7 +14,7 @@ void setup() {
   pinMode(ledPin,OUTPUT);
   digitalWrite(trgPin,0);
   digitalWrite(ledPin,0);
-  Serial.begin(115200);
+  Serial.begin(1000000);
 }
 
 void loop() {
